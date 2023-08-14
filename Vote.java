@@ -7,7 +7,7 @@ public class Vote {
             System.out.println("you are eligible for Vote");
         }
         else{
-            System.out.println("Not eligible");
+            System.out.println(" you are Not eligible");
         }
         
     }
